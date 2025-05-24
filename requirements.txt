@@ -1,0 +1,28 @@
+# FastAPI v2.0 - Railway Deploy
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Server-Sent Events
+sse-starlette==1.8.2
+
+# HTTP client
+httpx==0.25.2
+
+# Redis for caching and sessions
+redis[hiredis]==5.0.1
+
+# Production server
+gunicorn==21.2.0
+
+# Additional dependencies
+python-dateutil==2.8.2
+typing-extensions==4.8.0
+
+# Optional but recommended
+email-validator==2.1.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
