@@ -1,4 +1,4 @@
-# 🚀 Agentes de Conversação API v2.0 - Railway Deploy
+# 🚀 Agentes de Conversação API v2.0
 
 Fast, modern web framework for building APIs with Python 3.7+ based on standard Python type hints.
 
